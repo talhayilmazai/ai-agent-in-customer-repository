@@ -1,6 +1,6 @@
 # AI Agent Best Practices & Customer Repository Template
 
-This repository serves as a **Knowledge Base** and **Toolset** designed for AI Agents (such as GitHub Copilot and Cursor) acting as Data Engineers. It provides a structured environment with specialized instructions, skills, and agents to ensure consistent and high-quality code generation and maintenance.
+This repository serves as a **Knowledge Base** and **Toolset** designed for AI Agents (such as GitHub Copilot and Cursor). It provides a structured environment with specialized instructions, skills, and agents to ensure consistent and high-quality code generation and maintenance.
 
 ## 📂 Repository Structure
 
